@@ -1,4 +1,4 @@
-# Progetto_FESI
+# Progetto FESI
 ### Automatic de-noiser based on sampled noise analysis and noise profiling in Fourier
 #
 #### **Autore:** Francesco Spezia
