@@ -1,8 +1,8 @@
-# Progetto FESI
+# Audio Signal Elaboration Project
 ### Automatic de-noiser based on sampled noise analysis and noise profiling in Fourier
 #
-#### **Autore:** Francesco Spezia
-#### **Collaboratori:** Roberto Lazzarini
+#### **Author:** Francesco Spezia
+#### **Collaborators:** Roberto Lazzarini
 #
 ## **Obiettivo:**
 Creare un tool in grado di ridurre vari tipi di rumore da un file audio, basandosi su un'analisi di una porzione di rumore, effettuando una divisione in varie bande di frequenze, calcolando l'ampiezza media del volume di ogni banda, allo scopo di creare un profilo del rumore.
