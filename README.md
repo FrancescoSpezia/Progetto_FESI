@@ -1,5 +1,6 @@
 # Audio Signal Elaboration Project
 ### Automatic de-noiser based on sampled noise analysis and noise profiling in Fourier
+#### Spoiler: it doesn't work lol
 #
 #### **Author:** Francesco Spezia
 #### **Collaborators:** Roberto Lazzarini
